@@ -1,0 +1,9 @@
+{
+  "globalstrict": true,
+  "globals": {
+        "console": false,
+        "L": false,
+        "jQuery": false,
+        "$": false
+    }
+}
